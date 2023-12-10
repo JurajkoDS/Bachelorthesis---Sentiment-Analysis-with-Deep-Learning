@@ -18,6 +18,8 @@ tweets_clinton_trump.csv - dataset containing about 6600 posts of Trump and Clin
 
 Visualization of Tweets - This is the visualization of Tweets using the weaker model. This notebook uses the tweets_clinton_trump.csv dataset.
 
+Visualization of Tweets-Copy1.ipynb - The exact same notebook as the one before, but it's using the stronger model.
+
 train.csv - is the training dataset containg Tweets that were labelled for training - positive, negative or neutral.
 
 visualisation_of_people_tweets-Copy2.ipynb - notebook containing the analysis using the newer model. it visualizes the sentiment.
